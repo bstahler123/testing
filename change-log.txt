@@ -1,0 +1,99 @@
+***************
+Version 1.08
+***************
+
+CHANGE LOG
+=====================
+- New : 2 Medical landing page added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.07
+***************
+
+CHANGE LOG
+=====================
+- New : Software landing page added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.06
+***************
+
+CHANGE LOG
+=====================
+- New : Finance landing page added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.05
+***************
+
+CHANGE LOG
+=====================
+- New : Education landing page added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.04
+***************
+
+CHANGE LOG
+=====================
+- New : Travel landing page added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.03
+***************
+
+CHANGE LOG
+=====================
+- New : Restaurant landing page added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.02
+***************
+
+CHANGE LOG
+=====================
+- New : Business landing page added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.01
+***************
+
+CHANGE LOG
+=====================
+- New : App landing page added
+- Other bug fixes and improvement in code
+	
+
+
+***************
+Version 1.0
+***************
+
+CHANGE LOG
+=====================
+- Item release
+	
+
+
+
